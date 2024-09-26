@@ -3,7 +3,7 @@ import React from "react";
 
 function Home() {
   return (
-    <div>
+    <div className="h-screen w-full">
       <DownloadWallpapers />
     </div>
   );
